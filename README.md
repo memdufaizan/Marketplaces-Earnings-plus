@@ -2,4 +2,4 @@
 
 ### Markerplaces Earnings Plus
 
-** [Download the extension on the Chrome Web store] (https://chrome.google.com/webstore/detail/marketplaces-earnings-%20/ngbofmbmljphogeedaieajpcglmbnhfk)**
+[Download the extension on the Chrome Web store] (https://chrome.google.com/webstore/detail/marketplaces-earnings-%20/ngbofmbmljphogeedaieajpcglmbnhfk)
